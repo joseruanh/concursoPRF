@@ -122,7 +122,80 @@ Revisão: Revise constantemente, intercalando os tópicos para garantir uma melh
 
 function direitoadm()
 {
-    window.alert("ok")
+    let a = window.document.getElementById("conteudo")
+    a.innerHTML = `
+    
+    Vamos lá! Vou fornecer um conteúdo detalhado para você estudar os temas de "Organização da Administração Pública", "Poderes Administrativos" e "Licitações" em Direito Administrativo, focado para o concurso da PRF. Vou dividir em tópicos para facilitar o estudo. <br>
+<br>
+1. Organização da Administração Pública<br>
+1.1. Conceito e Estrutura da Administração Pública<br>
+Administração Pública: Conjunto de órgãos, agentes e atividades estatais, destinadas a assegurar os interesses públicos.<br>
+Estrutura:<br>
+Administração Direta: Constituída pelos órgãos que integram as pessoas políticas (União, Estados, Distrito Federal e Municípios). Ex.: Ministérios, Secretarias.<br>
+Administração Indireta: Formada por pessoas jurídicas que desempenham atividades descentralizadas. Ex.: Autarquias, Fundações, Empresas Públicas, Sociedades de Economia Mista.<br><br>
+1.2. Descentralização e Concentração<br>
+Descentralização: Transferência de atividades de um ente para outro, mantendo o primeiro o controle e fiscalização.<br><br>
+<br>
+Política: Criação de entidades federativas autônomas.<br>
+Administrativa: Distribuição de competências dentro de uma mesma pessoa jurídica (ex.: autarquias).<br>
+Territorial: Criação de territórios ou entidades que gerem determinados locais (ex.: DF).<br>
+Por Serviço: Criação de uma entidade para executar determinada função (ex.: INSS).<br>
+Concentração: União de competências em uma única entidade ou órgão, sem divisão de funções.<br><br>
+<br>
+1.3. Desconcentração<br>
+Desconcentração: Distribuição interna de competências dentro de uma mesma entidade. Ex.: Departamentos, Divisões dentro de um Ministério.<br><br>
+1.4. Entidades da Administração Indireta<br>
+Autarquias: Entidades autônomas criadas por lei para desempenhar funções típicas do Estado. Ex.: INSS, ANVISA.<br>
+Fundações Públicas: Entidades criadas para fins específicos de interesse público, podendo ser públicas ou privadas. Ex.: FUNAI.<br>
+Empresas Públicas e Sociedades de Economia Mista: Atuam no mercado, mas sob controle estatal. Ex.: Correios (Empresa Pública), Petrobras (Sociedade de Economia Mista).<br><br>
+2. Poderes Administrativos<br>
+2.1. Conceito<br>
+Poderes Administrativos: Instrumentos que a Administração Pública possui para a realização de suas funções. São poderes-deveres, ou seja, devem ser exercidos em prol do interesse público.<br><br>
+2.2. Poder Hierárquico<br>
+Poder Hierárquico: Relação de subordinação entre os diferentes órgãos e agentes da Administração. Permite que superiores possam dar ordens, fiscalizar, rever atos e aplicar sanções aos subordinados.<br>
+Delegação e Avocação: Delegar é transferir competência, enquanto avocar é chamar para si a competência de um subordinado.<br><br>
+2.3. Poder Disciplinar<br>
+Poder Disciplinar: Poder da Administração de aplicar sanções a servidores públicos e particulares com vínculo contratual com o Estado, quando infringem normas legais ou regulamentares.<br>
+Diferença com o Poder Punitivo Geral: Este último aplica-se a toda a sociedade (ex.: Direito Penal), enquanto o Poder Disciplinar aplica-se somente àqueles em relação de sujeição especial com o Estado.<br><br>
+2.4. Poder Regulamentar<br>
+Poder Regulamentar: Poder que a Administração tem de editar atos normativos para complementar ou detalhar as leis, sem alterá-las.<br>
+Decretos Regulamentares: Editados pelo chefe do Executivo para garantir a fiel execução da lei.<br>
+Instruções Normativas e Portarias: Atos normativos expedidos por autoridades administrativas.<br><br>
+2.5. Poder de Polícia<br>
+Poder de Polícia: Poder da Administração de condicionar e restringir o exercício de direitos individuais em favor do interesse público.<br>
+Características: Autoexecutoriedade (capacidade de executar sem intervenção do Judiciário), Discricionariedade, Coercibilidade.<br>
+Limites: Deve observar a legalidade, proporcionalidade e o devido processo legal.<br><br>
+3. Licitações<br>
+3.1. Conceito e Princípios<br>
+Licitação: Procedimento administrativo formal para selecionar a proposta mais vantajosa para a Administração, visando a contratação de obras, serviços, compras e alienações.<br>
+Princípios:<br>
+Legalidade: A licitação deve obedecer à lei.<br>
+Impessoalidade: Não pode haver favorecimento pessoal.<br>
+Moralidade: A atuação deve ser ética.<br>
+Igualdade: Todos os interessados devem ter condições iguais de participar.<br>
+Publicidade: Os atos devem ser públicos.<br>
+Vinculação ao Instrumento Convocatório: A Administração deve seguir o que foi estabelecido no edital.<br>
+Julgamento Objetivo: As propostas devem ser julgadas de forma objetiva.<br>
+Competitividade: A licitação deve estimular a competição.<br><br>
+3.2. Modalidades de Licitação<br>
+Concorrência: Modalidade mais abrangente, para contratos de maior valor.<br>
+Tomada de Preços: Para contratos de médio valor, onde os licitantes devem estar previamente cadastrados.<br>
+Convite: Para contratos de menor valor, com convite direto a, pelo menos, três interessados.<br>
+Concurso: Para escolha de trabalho técnico, científico ou artístico.<br>
+Leilão: Para venda de bens móveis e imóveis inservíveis.<br>
+Pregão: Modalidade para aquisição de bens e serviços comuns.<br><br>
+3.3. Dispensa e Inexigibilidade de Licitação<br>
+Dispensa: Situações em que a licitação é dispensada por lei (ex.: emergência, pequeno valor).<br>
+Inexigibilidade: Situações em que a licitação é inviável, como em casos de exclusividade de fornecedor.<br><br>
+3.4. Fases da Licitação<br>
+Fase Interna: Preparação do edital, definição do objeto, estudo de mercado.<br>
+Fase Externa: Publicação do edital, apresentação de propostas, julgamento, homologação e adjudicação.<br><br>
+3.5. Contratos Administrativos<br>
+Características: São contratos regidos por normas de direito público, com cláusulas exorbitantes.<br>
+Exemplos de Cláusulas Exorbitantes: Prerrogativas da Administração de modificar unilateralmente o contrato, rescindir o contrato por interesse público, aplicar sanções.<br><br>
+Esse conteúdo abrange os principais pontos dos temas solicitados. Recomendo que você estude cada um desses tópicos com profundidade, utilizando materiais complementares como livros e legislações atualizadas, além de realizar exercícios para fixar o conteúdo.
+    
+    `
 }
 
 function recarregar()
