@@ -620,8 +620,11 @@ function ebook()
     a.innerHTML = `
         <h1>Ebooks para estudar</h1>
         <br><br>
-        <h4>Resumão PRF - </h4> Link -
-    
+        <h4>Resumão PRF </h4> Link - <a href="https://drive.google.com/file/d/1OJ9t2r6e3d1TMMpRvTp3RqUxyC_hH54n/view?usp=sharing" target="_blank"> Abrir em outra aba </a>
+        <br><br>
+        <h4>Guia PRF</h4> Link - <a href="https://drive.google.com/file/d/1Ql8VPtJCxJ2dCCo1Qoe2kzK0WZbTixW5/view" target="_blank"> Abrir em outra aba </a>
+        <br><br>
+        <h4>Simulado PRF</h4> Link - <a href="https://drive.google.com/file/d/129keOndW1E-0QKCtZVo4Oz0QWz88B60A/view" target="_blank"> Abrir em outra aba </a>
     
     
     `

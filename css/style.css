@@ -1,11 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
 
+::-webkit-scrollbar{width: 5px;}
+::-webkit-scrollbar-track{background: var(--cor6);}
+::-webkit-scrollbar-thumb{background-color: var(--cor1); border-radius: 10px; border: 1px solid var(--cor6);}
+::-webkit-scrollbar-thumb:hover{background-color: var(--cor3); cursor: pointer;}
+
 * {margin: 0; padding: 0; font-family: 'Signika Negative', sans-serif;}
 html
 {
     scroll-behavior: smooth;
 }
 
+a
+{
+    text-decoration: underline;
+    color: var(--cor6);
+    transition: 0.2s;
+}
+a:hover
+{
+    color: white;
+}
 
 body
 {
