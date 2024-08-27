@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
 
 * {margin: 0; padding: 0; font-family: 'Signika Negative', sans-serif;}
+html
+{
+    scroll-behavior: smooth;
+}
+
+
+body
+{
+    background-color: var(--cor1);
+    position: relative;
+}
 
 
 :root
@@ -11,6 +22,27 @@
     --cor4: #45525C;
     --cor5: #1E2A33;
     --cor6: #152633;
+}
+
+button.topo
+{
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid var(--cor6);
+    border-radius: 50%;
+    color: var(--cor6);
+    padding: 5px 10px;
+    position: fixed;
+    top: 90%;
+    left: 90%;
+    transition: 0.2s;
+}
+
+button.topo:hover
+{
+    transform: scale(1.9);
+    background-color: var(--cor6);
+    color: var(--cor3);
 }
 
 header
@@ -26,11 +58,21 @@ header
     height: 50px;
 }
 
+img#logoprf, img#livrocontent
+{
+    width: 30px;
+    margin-right: 10px;
+}
+
 button.logo
 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
     padding: 10px;
     background-color: transparent;
-    color: white;
+    color: var(--cor3);
     border: none;
     font-size: 20px;
     font-weight: bolder;
@@ -38,6 +80,9 @@ button.logo
 
 button.content
 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
@@ -45,19 +90,22 @@ button.content
     height: 50px;
     transition: 0.2s;
     background-color: transparent;
-    color: white;
-    border: 1px solid white;
+    color: var(--cor3);
+    box-shadow: 0px 5px 0px var(--cor3);
+    border: none;
 }
 
 button.content:hover
 {
+    color: var(--cor6);
     background-color: var(--cor3);
+    box-shadow: 0px 0px 0px var(--cor3);
 }
 
 main
 {
     color: var(--cor6);
-    width: 800px;
+    width: 700px;
     margin: auto;
     padding: 90px 10px 10px 10px;
 }
@@ -65,4 +113,47 @@ main
 footer
 {
     height: 500px;
+}
+
+div.materias
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+div.disciplina
+{
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+    height: 200px;
+    width: 200px;
+    margin: 12px;
+    border: 1px solid black;
+    transition: 0.2s;
+    color: white;
+    font-weight: bolder;
+}
+
+div.disciplina:hover
+{
+    transform: scale(1.1);
+}
+
+div#port
+{
+    background-image: url(../images/port.png);
+}
+
+div#dadm
+{
+    background-image: url(../images/dadm.png);
 }
