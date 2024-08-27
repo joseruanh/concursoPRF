@@ -2,6 +2,8 @@ function portugues()
 {
     let a = window.document.getElementById("conteudo")
     a.innerHTML = `
+
+    <h1>Gramática</h1> <br>
     
     
 Vamos abordar o conteúdo de Gramática para o concurso da PRF com foco em Classes de Palavras, Concordância Verbal e Concordância Nominal.
@@ -124,6 +126,8 @@ function direitoadm()
 {
     let a = window.document.getElementById("conteudo")
     a.innerHTML = `
+
+    <h1>Direito Administrativo</h1><br>
     
     Vamos lá! Vou fornecer um conteúdo detalhado para você estudar os temas de "Organização da Administração Pública", "Poderes Administrativos" e "Licitações" em Direito Administrativo, focado para o concurso da PRF. Vou dividir em tópicos para facilitar o estudo. <br>
 <br>
