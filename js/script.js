@@ -506,6 +506,17 @@ Para que um crime seja configurado, ele deve apresentar esses três elementos: f
 <div class="videoaula">
     <h2>Vídeo Aula</h2>
     <br><br><br>
+
+    <h4>Prof. Lucas Fávero - Começando do 0 - pt1</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vdwmymhoHDg?si=PdLJiPO6OH44VVJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br><br>
+
+    <h4>Prof. Lucas Fávero - Começando do 0 - pt2</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oBGBA3-IeTc?si=QGdQf1C9OXIUFoYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br><br>
+
+
+
     <h4>Prof. Norberto Florindo</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Eu-vYiSobqc?si=-LxcLU95FjM4KDHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br><br><br>
