@@ -461,7 +461,46 @@ function dpen()
     let a = window.document.getElementById("conteudo")
     a.innerHTML = `
     
-    <br><br><br>
+    <br>
+    <h1>Direito Penal</h1>
+    <br><br><br
+<hr>
+
+    <p>
+        <h3>A Teoria do Crime</h3>  <br>  
+    
+    A Teoria do Crime é um dos fundamentos do Direito Penal e se baseia na estrutura analítica do crime, dividida em três elementos essenciais: fato típico, ilicitude e culpabilidade. <br>Vamos detalhar cada um deles:<br><br>
+
+<h4>1. Fato Típico</h4>
+O fato típico é a conduta humana que se enquadra em uma descrição legal de crime. Ele possui quatro elementos fundamentais:<br><br>
+
+Conduta: Ação ou omissão voluntária do agente.<br><br>
+Resultado: Consequência provocada pela conduta (nos crimes materiais, como homicídio, por exemplo).<br><br>
+Nexo de causalidade: Ligação entre a conduta do agente e o resultado ocorrido.<br><br>
+Tipicidade: Adequação do fato à norma penal, ou seja, a conduta praticada deve estar prevista no Código Penal.<br><br>
+Exemplo: No homicídio (art. 121 do CP), o fato típico ocorre quando alguém mata outra pessoa de forma voluntária.<br><br><br>
+
+<h4>2. Ilicitude (Antijuridicidade)</h4>
+A ilicitude é a contrariedade da conduta com o ordenamento jurídico. Se um fato típico é praticado sem justificativa legal, ele será considerado ilícito.<br> No entanto, existem causas que excluem a ilicitude, chamadas de excludentes de ilicitude, previstas no artigo 23 do Código Penal:<br><br>
+
+Legítima defesa (art. 25, CP) → Exemplo: Alguém reage a uma agressão injusta para se defender.<br><br>
+Estado de necessidade → Exemplo: Para salvar sua vida, alguém danifica um bem de menor valor.<br><br>
+Estrito cumprimento do dever legal → Exemplo: Policial que atira em um criminoso para impedir um crime.<br><br>
+Exercício regular de um direito → Exemplo: Médico que realiza cirurgia com o consentimento do paciente.<br><br>
+Se uma dessas hipóteses estiver presente, o fato típico deixa de ser ilícito.<br><br><br>
+
+<h4>3. Culpabilidade</h4>
+A culpabilidade refere-se à possibilidade de responsabilizar o agente pelo crime. Ela envolve três requisitos:<br><br>
+
+Imputabilidade: Capacidade mental do agente de entender o caráter ilícito do fato. Exemplo: Crianças menores de 18 anos e pessoas com transtornos mentais podem ser inimputáveis.<br><br>
+Potencial consciência da ilicitude: O agente deve ter conhecimento de que sua conduta é proibida pela lei.<br><br>
+Exigibilidade de conduta diversa: O agente deveria e poderia ter agido de forma diferente.<br><br>
+Exemplo: Se alguém age sob coação irresistível ou em estado de necessidade, pode haver exclusão da culpabilidade.<br><br><br>
+
+<h4>Conclusão</h4>
+Para que um crime seja configurado, ele deve apresentar esses três elementos: fato típico, ilicitude e culpabilidade. Se algum deles estiver ausente, não há crime.<br><br>
+    </p>
+
 <hr>
 <br>
 <div class="videoaula">
