@@ -524,8 +524,19 @@ Para que um crime seja configurado, ele deve apresentar esses três elementos: f
     <h4>Prof. Norberto Florindo</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Eu-vYiSobqc?si=-LxcLU95FjM4KDHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br><br><br>
+
+
     <h4>Prof. Lucas Fávero: Agora você aprende!</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iJuiQOKeF1g?si=xmyO-4aS87gHUAhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h4>PT1 - Direito Penal para Concursos - Filipe Ávila</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0oKSt817f2M?si=tAErint7qysMXD5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br><br>
+
+    <h4>PT2 - Direito Penal para Concursos - Filipe Ávila</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LptLY2g80-c?si=U9UHPaCk7-0fNY7l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br><br>
+
 </div>
 <br>
 <hr>
