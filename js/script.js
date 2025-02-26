@@ -463,8 +463,12 @@ function dpen()
     
     <br>
     <h1>Direito Penal</h1>
-    <br><br><br
+    <hr>
+    <br><br>
+    <a href="https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm" target="_blank"><h3>Código Penal</h3></a>
+    <br><br>
 <hr>
+<br>
 
     <p>
         <h3>A Teoria do Crime</h3>  <br>  
@@ -675,6 +679,8 @@ function ebook()
         <h4>Guia PRF</h4> Link - <a href="https://drive.google.com/file/d/1Ql8VPtJCxJ2dCCo1Qoe2kzK0WZbTixW5/view" target="_blank"> Abrir em outra aba </a>
         <br><br>
         <h4>Simulado PRF</h4> Link - <a href="https://drive.google.com/file/d/129keOndW1E-0QKCtZVo4Oz0QWz88B60A/view" target="_blank"> Abrir em outra aba </a>
+        <br><br>
+        <h4>Código Penal</h4> Link - <a href="https://www2.senado.leg.br/bdsf/bitstream/handle/id/648206/Codigo_penal_7ed.pdf" target="_blank"> Abrir em outra aba </a> 
     
     
     `
